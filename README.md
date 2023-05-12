@@ -1,6 +1,6 @@
 # text-search-service
 Text Search Service [Spring Boot - Java]
-Search a text from all the documents/text stored in the Database
+Search a text from all the documents/text stored in the Database. In Memory cache (ehCache) is used to store frequently search key words.
 
 ## Requirements
 
